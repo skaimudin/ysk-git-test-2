@@ -9,7 +9,12 @@
 
 <body>
     <h1>Hello Wordl</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia aperiam repellat nobis, quos ab at deserunt architecto? Totam ipsa cumque sequi omnis pariatur minus ad deleniti dolores ut, nostrum molestiae.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia aperiam repellat nobis, quos ab at deserunt
+        architecto? Totam ipsa cumque sequi omnis pariatur minus ad deleniti dolores ut, nostrum molestiae.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
